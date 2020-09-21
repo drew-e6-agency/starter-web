@@ -8,8 +8,10 @@ THis is an example to show different parts of the GIT repository and various com
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple examples for git training.
+
 ## Deployment
 
-Sample website with plenty of files for demos
+This is a  simple web project, the only thing needed is to copy files.
 
 ## How to contribute
