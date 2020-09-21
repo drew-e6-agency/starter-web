@@ -4,7 +4,7 @@ This is a simple website project for showing how to use GIT and GITHUB together.
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+THis is an example to show different parts of the GIT repository and various commands using a web project.
 
 ## Purpose
 
